@@ -5,7 +5,7 @@
 @ATTRIBUTE persons  {2, 4, more}
 @ATTRIBUTE lug_boot {small, med, big} 
 @ATTRIBUTE safety  {low, med, high}
-@ATTRIBUTE class        { unacc, acc, good, vgood }
+@ATTRIBUTE class  { unacc, acc, good, vgood }
 @DATA
 vhigh,vhigh,2,2,small,low,unacc
 vhigh,vhigh,2,2,small,med,unacc
